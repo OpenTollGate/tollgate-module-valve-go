@@ -1,0 +1,10 @@
+identifier: tollgate-module-valve-go
+maintainers:
+- npub1hw6amg8p24ne08c9gdq8hhpqx0t0pwanpae9z25crn7m9uy7yarse465gr
+- npub1k03rader0vm94j5ee8fg7pc2x9xkr2phu77sljas7qu5mh8mvgvqpe8rty
+relays:
+- wss://nos.lol/
+- wss://relay.damus.io/
+- wss://nostr.wine/
+- wss://relay.primal.net/
+- wss://relay.nostrplebs.com/
